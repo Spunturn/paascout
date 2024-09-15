@@ -38,8 +38,8 @@ To add another provider, just submit a pull request.
 
 Make sure to check if the provider supports all features and provide a pricing breakdown.
 
-## Who is behind [PaaScout.io](http://PaaScount.io)?
+    ## Who is behind [PaaScout.io](http://PaaScount.io)?
 
-The founder of [**Stacktape**](https://stacktape.com/) maintains this project.
+        The founder of [**Stacktape**](https://stacktape.com/) maintains this project.
 
-The project is open source, allowing anyone to contribute. We allow new features as long as they benefit at least a small group of PaaS users. Everyone welcome to contribute!
+    The project is open source, allowing anyone to contribute. We allow new features as long as they benefit at least a small group of PaaS users. Everyone welcome to contribute!
